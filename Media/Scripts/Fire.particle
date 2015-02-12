@@ -1,0 +1,52 @@
+particle_system Fire
+{
+	material Particles/Flare.000
+	particle_width 1.0
+	particle_height 1.0
+	quota 100
+	cull_each false
+	sorted false
+	local_space false
+	iteration_interval 0.0
+	nonvisible_update_timeout 0.0
+	billboard_type point
+	billboard_origin center
+	billboard_rotation_type texcoord
+	point_rendering false
+	accurate_facing false
+
+	emitter Point
+	{
+		position 0.0 0.0 0.0
+		direction 0.0 0.0 -1.0
+		angle 0
+		emission_rate 100
+		velocity_min 1
+		velocity_max 2
+		time_to_live_min 0
+		time_to_live_max 1
+		duration_min 0
+		duration_max 1
+		repeat_delay_min 0
+		repeat_delay_max 0
+		colour_range_start 0 0 0 1
+		colour_range_end 0 0 0 1
+	}
+
+	affector Scaler
+	{
+		rate 49.97
+	}
+
+	affector ColourInterpolator
+	{
+		time0 0.43
+		colour0 1 0.666667 0 1
+		time1 0.75
+		colour1 1 0 0 1
+		time2 0
+		colour2 1 0 0 1
+		time3 0.81
+
+	}
+}

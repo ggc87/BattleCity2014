@@ -1,0 +1,17 @@
+material Particles/Flare.001
+{
+	technique
+	{
+		pass
+		{
+			lighting off
+			depth_write off
+			scene_blend add
+
+			texture_unit
+			{
+				texture ../Images/Flare.001.png
+			}
+		}
+	}
+}

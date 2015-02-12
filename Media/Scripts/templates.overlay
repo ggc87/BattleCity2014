@@ -1,0 +1,8 @@
+template container Panel(BattlecityLogo)
+{
+	metrics_mode pixels
+	material MyMaterials/BattlecityLogo
+	horz_align center
+	width 434.1
+	height 136.8
+}

@@ -1,0 +1,62 @@
+<scene exported_by="e-vampire" export_time="1392194829.4400115" formatVersion="1.0.1" previous_export_time="1385123319.7865574" >
+  <nodes >
+    <node name="TankControl" >
+      <position y="2.680777" x="0.000000" z="2.078602" />
+      <rotation qz="-0.000000" qy="0.000000" qx="0.000000" qw="1.000000" />
+      <scale y="1.000000" x="1.000000" z="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <node name="TankBody" >
+        <position y="0.052180" x="0.000000" z="0.517824" />
+        <rotation qz="-0.000000" qy="0.000000" qx="0.000000" qw="1.000000" />
+        <scale y="1.000000" x="1.000000" z="1.000000" />
+        <game >
+          <sensors />
+          <actuators />
+        </game>
+        <entity lock_rot_x="False" ghost="False" anisotropic_friction="False" meshFile="TankBodyMesh.mesh" lock_trans_y="False" lock_trans_x="False" lock_trans_z="False" inertia_tensor="0.4000000059604645" name="TankBodyMesh" velocity_max="0.0" actor="False" lock_rot_y="False" damping_rot="0.1589999943971634" velocity_min="0.0" damping_trans="0.02539999969303608" friction_z="1.0" friction_y="1.0" friction_x="1.0" physics_type="STATIC" mass_radius="1.0" lock_rot_z="False" mass="1.0" />
+        <node name="Armature" >
+          <position y="0.906729" x="-5.230573" z="3.386786" />
+          <rotation qz="-0.000000" qy="0.000000" qx="-0.707107" qw="0.707107" />
+          <scale y="1.000000" x="1.000000" z="1.000000" />
+          <game >
+            <sensors />
+            <actuators />
+          </game>
+        </node>
+      </node>
+      <node name="TankTurret" >
+        <position y="2.680777" x="0.000000" z="2.078602" />
+        <rotation qz="-0.000000" qy="0.000000" qx="0.000000" qw="1.000000" />
+        <scale y="1.000000" x="1.000000" z="1.000000" />
+        <game >
+          <sensors />
+          <actuators />
+        </game>
+        <entity lock_rot_x="False" ghost="False" anisotropic_friction="False" meshFile="TankTurretMesh.mesh" lock_trans_y="False" lock_trans_x="False" lock_trans_z="False" inertia_tensor="0.4000000059604645" name="TankTurretMesh" velocity_max="0.0" actor="False" lock_rot_y="False" damping_rot="0.1589999943971634" velocity_min="0.0" damping_trans="0.02539999969303608" friction_z="1.0" friction_y="1.0" friction_x="1.0" physics_type="STATIC" mass_radius="1.0" lock_rot_z="False" mass="1.0" />
+        <node name="TankCannon" >
+          <position y="0.225442" x="-0.000000" z="-0.431354" />
+          <rotation qz="-0.000000" qy="0.000000" qx="0.000000" qw="1.000000" />
+          <scale y="1.000000" x="1.000000" z="1.000000" />
+          <game >
+            <sensors />
+            <actuators />
+          </game>
+          <entity lock_rot_x="False" ghost="False" anisotropic_friction="False" meshFile="TankCannonMesh.mesh" lock_trans_y="False" lock_trans_x="False" lock_trans_z="False" inertia_tensor="0.4000000059604645" name="TankCannonMesh" velocity_max="0.0" actor="False" lock_rot_y="False" damping_rot="0.1589999943971634" velocity_min="0.0" damping_trans="0.02539999969303608" friction_z="1.0" friction_y="1.0" friction_x="1.0" physics_type="STATIC" mass_radius="1.0" lock_rot_z="False" mass="1.0" />
+        </node>
+      </node>
+    </node>
+  </nodes>
+  <externals >
+    <item type="material" >
+      <file name="../Scripts/tank.material" />
+    </item>
+  </externals>
+  <environment >
+    <colourAmbient r="0.0" b="0.0" g="0.0" />
+    <colourBackground r="0.4769890606403351" b="0.4769890606403351" g="0.4769890606403351" />
+    <colourDiffuse r="0.4769890606403351" b="0.4769890606403351" g="0.4769890606403351" />
+  </environment>
+</scene>

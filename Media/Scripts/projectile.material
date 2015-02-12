@@ -1,0 +1,85 @@
+
+material _missing_material_
+{
+    receive_shadows off
+    technique
+    {
+        pass
+        {
+            ambient 0.1 0.1 0.1 1.0
+            diffuse 0.8 0.0 0.0 1.0
+            specular 0.5 0.5 0.5 1.0 12.5
+            emissive 0.3 0.3 0.3 1.0
+        }
+    }
+}
+
+// Laser genrated by blender2ogre 0.5.9
+
+material Laser 
+{
+    receive_shadows on 
+
+    technique
+    {
+        pass Laser
+        {
+            ambient 0.08948469161987305 0.15861383080482483 0.800000011920929 0.6172499656677246
+            diffuse 0.07158775436263909 0.12689106653468407 0.6400000190734865 0.6172499656677246
+            specular 0.5 0.5 0.5 0.6172499656677246 12.5
+            emissive 0.1789693832397461 0.31722766160964966 1.600000023841858 0.6172499656677246
+
+            alpha_to_coverage off
+            colour_write on
+            cull_hardware clockwise
+            depth_check on
+            depth_func less_equal
+            depth_write on
+            illumination_stage 
+            light_clip_planes off
+            light_scissor off
+            lighting on
+            normalise_normals off
+            polygon_mode solid
+            scene_blend one zero
+            scene_blend_op add
+            shading gouraud
+            transparent_sorting on
+
+        }
+    }
+}
+
+material RedLaser 
+{
+    receive_shadows on 
+
+    technique
+    {
+        pass RedLaser
+        {
+            ambient 0.9948469161987305 0.15861383080482483 0.0800000011920929 0.6172499656677246
+            diffuse 0.9158775436263909 0.12689106653468407 0.06400000190734865 0.6172499656677246
+            specular 0.5 0.5 0.5 0.6172499656677246 12.5
+            emissive 0.889693832397461 0.31722766160964966 1.600000023841858 0.6172499656677246
+
+            alpha_to_coverage off
+            colour_write on
+            cull_hardware clockwise
+            depth_check on
+            depth_func less_equal
+            depth_write on
+            illumination_stage 
+            light_clip_planes off
+            light_scissor off
+            lighting on
+            normalise_normals off
+            polygon_mode solid
+            scene_blend one zero
+            scene_blend_op add
+            shading gouraud
+            transparent_sorting on
+
+        }
+    }
+}

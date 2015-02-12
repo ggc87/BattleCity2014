@@ -1,0 +1,156 @@
+
+material _missing_material_
+{
+    receive_shadows off
+    technique
+    {
+        pass
+        {
+            ambient 0.1 0.1 0.1 1.0
+            diffuse 0.8 0.0 0.0 1.0
+            specular 0.5 0.5 0.5 1.0 12.5
+            emissive 0.3 0.3 0.3 1.0
+        }
+    }
+}
+
+// Silver genrated by blender2ogre 0.5.9
+
+material Silver 
+{
+    receive_shadows on 
+
+    technique
+    {
+        pass Silver
+        {
+            ambient 0.35883933305740356 0.35883933305740356 0.35883933305740356 1.0
+            diffuse 0.35883933305740356 0.35883933305740356 0.35883933305740356 1.0
+            specular 1.0 1.0 1.0 1.0 19.25
+            emissive 0.0 0.0 0.0 1.0
+
+            alpha_to_coverage off
+            colour_write on
+            cull_hardware clockwise
+            depth_check on
+            depth_func less_equal
+            depth_write on
+            illumination_stage 
+            light_clip_planes off
+            light_scissor off
+            lighting on
+            normalise_normals off
+            polygon_mode solid
+            scene_blend one zero
+            scene_blend_op add
+            shading gouraud
+            transparent_sorting on
+
+        }
+    }
+}
+// Blue genrated by blender2ogre 0.5.9
+
+material Blue 
+{
+    receive_shadows on 
+
+    technique
+    {
+        pass Blue
+        {
+            ambient 0.0 0.05973957106471062 0.20190005004405975 1.0
+            diffuse 0.0 0.05973957106471062 0.20190005004405975 1.0
+            specular 1.0 1.0 1.0 1.0 19.25
+            emissive 0.0 0.0 0.0 1.0
+
+            alpha_to_coverage off
+            colour_write on
+            cull_hardware clockwise
+            depth_check on
+            depth_func less_equal
+            depth_write on
+            illumination_stage 
+            light_clip_planes off
+            light_scissor off
+            lighting on
+            normalise_normals off
+            polygon_mode solid
+            scene_blend one zero
+            scene_blend_op add
+            shading gouraud
+            transparent_sorting on
+
+        }
+    }
+}
+
+material Red 
+{
+    receive_shadows on 
+
+    technique
+    {
+        pass Blue
+        {
+            ambient 0.8973957106471062 0.020190005004405975 0.0 1.0
+            diffuse 0.8973957106471062 0.020190005004405975 0.0 1.0
+            specular 1.0 1.0 1.0 1.0 19.25
+            emissive 0.0 0.0 0.0 1.0
+
+            alpha_to_coverage off
+            colour_write on
+            cull_hardware clockwise
+            depth_check on
+            depth_func less_equal
+            depth_write on
+            illumination_stage 
+            light_clip_planes off
+            light_scissor off
+            lighting on
+            normalise_normals off
+            polygon_mode solid
+            scene_blend one zero
+            scene_blend_op add
+            shading gouraud
+            transparent_sorting on
+
+        }
+    }
+}
+
+// Glass genrated by blender2ogre 0.5.9
+
+material Glass 
+{
+    receive_shadows on 
+
+    technique
+    {
+        pass Glass
+        {
+            ambient 0.014669375494122505 0.014669375494122505 0.014669375494122505 1.0
+            diffuse 0.014669375494122505 0.014669375494122505 0.014669375494122505 1.0
+            specular 0.5 0.5 0.5 1.0 12.5
+            emissive 0.0 0.0 0.0 1.0
+
+            alpha_to_coverage off
+            colour_write on
+            cull_hardware clockwise
+            depth_check on
+            depth_func less_equal
+            depth_write on
+            illumination_stage 
+            light_clip_planes off
+            light_scissor off
+            lighting on
+            normalise_normals off
+            polygon_mode solid
+            scene_blend one zero
+            scene_blend_op add
+            shading gouraud
+            transparent_sorting on
+
+        }
+    }
+}

@@ -1,0 +1,271 @@
+[Font.18]
+lineheight 20
+spacelength 12
+baseline 0
+kerning -0.5
+letterspacing 0
+monowidth 19
+range 33 126
+glyph_33 0 0 2 15
+verticaloffset_33 -15
+glyph_34 2 0 5 5
+verticaloffset_34 -15
+glyph_35 7 0 11 15
+verticaloffset_35 -15
+glyph_36 18 0 9 18
+verticaloffset_36 -16
+glyph_37 27 0 16 15
+verticaloffset_37 -15
+glyph_38 43 0 12 15
+verticaloffset_38 -15
+glyph_39 55 0 2 5
+verticaloffset_39 -15
+glyph_40 57 0 5 19
+verticaloffset_40 -15
+glyph_41 62 0 5 19
+verticaloffset_41 -15
+glyph_42 67 0 7 6
+verticaloffset_42 -15
+glyph_43 74 0 10 10
+verticaloffset_43 -12
+glyph_44 84 0 2 5
+verticaloffset_44 -2
+kerning_44 70 2
+kerning_44 80 2
+kerning_44 84 2
+kerning_44 86 1
+kerning_44 87 1
+kerning_44 89 2
+kerning_44 114 1
+kerning_44 118 1
+kerning_44 119 1
+kerning_44 121 1
+glyph_45 86 0 6 2
+verticaloffset_45 -6
+kerning_45 84 1
+kerning_45 86 1
+kerning_45 89 1
+glyph_46 92 0 2 2
+verticaloffset_46 -2
+kerning_46 70 2
+kerning_46 80 2
+kerning_46 84 2
+kerning_46 86 1
+kerning_46 87 1
+kerning_46 89 2
+kerning_46 114 1
+kerning_46 118 1
+kerning_46 119 1
+kerning_46 121 1
+glyph_47 94 0 6 15
+verticaloffset_47 -15
+glyph_48 100 0 9 15
+verticaloffset_48 -15
+glyph_49 109 0 5 15
+verticaloffset_49 -15
+kerning_49 49 1
+glyph_50 114 0 9 15
+verticaloffset_50 -15
+glyph_51 123 0 9 15
+verticaloffset_51 -15
+glyph_52 132 0 10 15
+verticaloffset_52 -15
+glyph_53 142 0 9 15
+verticaloffset_53 -15
+glyph_54 151 0 9 15
+verticaloffset_54 -15
+glyph_55 160 0 9 15
+verticaloffset_55 -15
+glyph_56 169 0 9 15
+verticaloffset_56 -15
+glyph_57 178 0 9 15
+verticaloffset_57 -15
+glyph_58 187 0 2 11
+verticaloffset_58 -11
+kerning_58 84 2
+kerning_58 86 1
+kerning_58 89 1
+glyph_59 189 0 2 14
+verticaloffset_59 -11
+kerning_59 84 2
+kerning_59 86 1
+kerning_59 89 1
+glyph_60 191 0 10 9
+verticaloffset_60 -12
+glyph_61 201 0 10 6
+verticaloffset_61 -10
+glyph_62 211 0 10 9
+verticaloffset_62 -12
+glyph_63 221 0 9 15
+verticaloffset_63 -15
+glyph_64 230 0 18 19
+verticaloffset_64 -15
+glyph_65 248 0 15 15
+verticaloffset_65 -15
+kerning_65 70 1
+kerning_65 80 1
+kerning_65 84 1
+kerning_65 86 1
+kerning_65 87 1
+kerning_65 89 1
+glyph_66 263 0 10 15
+verticaloffset_66 -15
+glyph_67 273 0 12 15
+verticaloffset_67 -15
+glyph_68 285 0 11 15
+verticaloffset_68 -15
+glyph_69 296 0 10 15
+verticaloffset_69 -15
+glyph_70 306 0 9 15
+verticaloffset_70 -15
+glyph_71 315 0 14 15
+verticaloffset_71 -15
+glyph_72 329 0 11 15
+verticaloffset_72 -15
+glyph_73 340 0 2 15
+verticaloffset_73 -15
+glyph_74 342 0 7 15
+verticaloffset_74 -15
+glyph_75 349 0 11 15
+verticaloffset_75 -15
+glyph_76 360 0 8 15
+verticaloffset_76 -15
+glyph_77 368 0 13 15
+verticaloffset_77 -15
+glyph_78 381 0 11 15
+verticaloffset_78 -15
+glyph_79 392 0 14 15
+verticaloffset_79 -15
+glyph_80 406 0 10 15
+verticaloffset_80 -15
+glyph_81 416 0 14 16
+verticaloffset_81 -15
+glyph_82 430 0 11 15
+verticaloffset_82 -15
+glyph_83 441 0 11 15
+verticaloffset_83 -15
+glyph_84 452 0 12 15
+verticaloffset_84 -15
+kerning_84 65 1
+kerning_84 76 1
+glyph_85 464 0 11 15
+verticaloffset_85 -15
+glyph_86 475 0 15 15
+verticaloffset_86 -15
+kerning_86 65 1
+kerning_86 76 1
+glyph_87 490 0 19 15
+verticaloffset_87 -15
+kerning_87 65 1
+kerning_87 76 1
+glyph_88 191 9 13 15
+verticaloffset_88 -15
+glyph_89 204 9 14 15
+verticaloffset_89 -15
+kerning_89 65 1
+kerning_89 76 1
+glyph_90 67 10 11 15
+verticaloffset_90 -15
+glyph_91 86 2 4 19
+verticaloffset_91 -15
+glyph_92 78 10 6 15
+verticaloffset_92 -15
+glyph_93 90 2 4 19
+verticaloffset_93 -15
+glyph_94 0 15 8 8
+verticaloffset_94 -15
+glyph_95 218 15 11 2
+verticaloffset_95 2
+glyph_96 201 6 3 3
+verticaloffset_96 -15
+glyph_97 8 15 9 11
+verticaloffset_97 -11
+kerning_97 84 2
+kerning_97 86 1
+kerning_97 87 1
+kerning_97 89 1
+glyph_98 27 15 9 15
+verticaloffset_98 -15
+glyph_99 36 15 8 11
+verticaloffset_99 -11
+kerning_99 84 2
+glyph_100 44 15 9 15
+verticaloffset_100 -15
+glyph_101 430 15 9 11
+verticaloffset_101 -11
+kerning_101 84 2
+kerning_101 86 1
+kerning_101 89 1
+glyph_102 439 15 7 15
+verticaloffset_102 -15
+glyph_103 446 15 9 15
+verticaloffset_103 -11
+glyph_104 455 15 8 15
+verticaloffset_104 -15
+glyph_105 509 0 2 15
+verticaloffset_105 -15
+kerning_105 84 1
+kerning_105 89 1
+glyph_106 187 14 4 19
+verticaloffset_106 -15
+glyph_107 463 15 9 15
+verticaloffset_107 -15
+glyph_108 55 5 2 15
+verticaloffset_108 -15
+glyph_109 472 15 14 11
+verticaloffset_109 -11
+glyph_110 486 15 8 11
+verticaloffset_110 -11
+glyph_111 494 15 9 11
+verticaloffset_111 -11
+kerning_111 84 2
+kerning_111 86 1
+kerning_111 89 1
+glyph_112 503 15 9 15
+verticaloffset_112 -11
+kerning_112 89 1
+glyph_113 94 15 9 15
+verticaloffset_113 -11
+kerning_113 89 1
+glyph_114 103 15 6 11
+verticaloffset_114 -11
+kerning_114 84 1
+kerning_114 86 1
+glyph_115 109 15 8 11
+verticaloffset_115 -11
+kerning_115 84 2
+glyph_116 117 15 5 15
+verticaloffset_116 -15
+glyph_117 122 15 8 11
+verticaloffset_117 -11
+kerning_117 84 1
+kerning_117 86 1
+kerning_117 89 1
+glyph_118 130 15 11 11
+verticaloffset_118 -11
+kerning_118 89 1
+glyph_119 141 15 17 11
+verticaloffset_119 -11
+kerning_119 84 1
+glyph_120 158 15 11 11
+verticaloffset_120 -11
+glyph_121 169 15 11 15
+verticaloffset_121 -11
+kerning_121 76 1
+kerning_121 84 1
+kerning_121 86 1
+glyph_122 248 15 9 11
+verticaloffset_122 -11
+glyph_123 180 15 6 19
+verticaloffset_123 -15
+glyph_124 84 5 2 19
+verticaloffset_124 -15
+glyph_125 257 15 6 19
+verticaloffset_125 -15
+glyph_126 263 15 10 4
+verticaloffset_126 -9
+
+[Texture]
+file Arial.png
+whitepixel 205 7
+

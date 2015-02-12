@@ -1,0 +1,16 @@
+material MyMaterials/BattlecityLogo
+{
+    receive_shadows off 
+
+    technique
+    {
+        pass
+        {
+            scene_blend src_alpha one_minus_src_alpha
+            texture_unit 
+            {
+                texture ../Images/battle-city_title.png
+            }
+        }
+    }
+}
